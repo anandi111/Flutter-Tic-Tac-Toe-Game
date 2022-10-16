@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 Your browser does not support the video tag.
 </video>
 
-![flutter](https://imgur.com/undefined)
+![](https://imgur.com/undefined)
